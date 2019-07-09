@@ -12,7 +12,7 @@ We will use Angular 8 and VS Code to develop our application. Take a look at the
 
 # Read the full article at
 
-https://ankitsharmablogs.com/localization-in-angular-using-i18n-tools
+https://medium.com/@thetiwari.tiwari01/how-to-implement-localization-internationalization-in-angular-using-i18n-5546d3244c88
 
 # Application Demo
 The application is hosted at https://i18ndemo-415ef.firebaseapp.com/en/. 
